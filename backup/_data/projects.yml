@@ -1,0 +1,32 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Mongo DB 텍스트 마이닝
+  role: Founder & Primary Developer
+  duration: 2019.05
+  # url: "#"
+  description: "<li>파이썬을 사용해 웹에서 텍스트 마이닝을 하는 프로젝트를 수행했습니다.</li><li>BeautifulSoup, MeCab을 이용해 웹에서 뉴스를 가져오고 형태소에 Apriori 알고리즘을 적용해 형태소 간의 연관규칙을 생성했습니다.</li><li>데이터베이스시스템 과목 프로젝트로 진행했습니다. </li><li>기술 스택: Python, MongoDB</li>"
+
+- project: 파이썬 튜터
+  role: Co-Founder & Organizer
+  duration: 2019.01 &mdash; 2019.03
+  # url: "#"
+  description: "<li>부동산 스타트업에서 근무하시는 감정평가사께 튜터링을 진행했습니다. </li><li> 부동산 데이터를 처리하는 데에 도움을 얻고 싶어 하셨고, Numpy, Pandas을 중심으로 파이썬 코딩에 도움을 드렸습니다.</li>"
+
+- project: 하나드라이브
+  role: Co-Founder & Organizer
+  duration: 2013.06 &mdash; 2016.02
+  # url: "#"
+  description: " <li>학교 어디에서나 계정만 있으면 자신의 폴더에 접속할 수 있는 서비스를 개발했습니다.</li><li>학생들이 여러 컴퓨터를 옮겨 다니며 사용하는 환경에서 파일관리에 어려움을 겪는 문제를 해결하기 위해 착수했습니다.</li><li>Ubuntu 12.04 LTS로 서버를 직접 구축하고 Samba 서버를 올렸습니다.</li><li>기술 스택: Shell Script, Samba, Apache, PHP</li>"
+
+
+- project: 네트워크 설정 도우미
+  role: Co-Founder & Organizer
+  duration: 2013.03 &mdash; 2016.02
+  # url: "#"
+  description: "<li>학교 유/무선랜에 연결할 때 자동으로 네트워크 설정을 수행하는 프로그램을 작성했습니다.</li><li>친구들이 도서관에서 자리를 옮길 때 마다 IP 설정을 변경해주어야 하는 불편함을 해결하기 위해 시작했습니다.</li><li>기술 스택: C, Powershell</li>"

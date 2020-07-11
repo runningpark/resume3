@@ -1,0 +1,13 @@
+# Degree
+- degree: 재학
+  uni: 서강대학교 컴퓨터공학과/철학과
+  year: <li>2016, 재학 </li>
+  # awards:
+  #  - award: # Summa Cumme Laude graduate
+  # summary: # If you had any meaningful roles at college, feel free to write about them here
+
+- degree: 졸업
+  uni: 하나고등학교
+  year: <li>2016, 졸업</ul>
+  # award: # Most likely to succeed
+  # summary: # You can choose to have either a single or multiple awards

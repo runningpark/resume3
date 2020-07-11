@@ -1,0 +1,6 @@
+# Jobs
+# VP of Global Communications
+- company: (주)퀄리소프트
+  position: 사원
+  duration: "2019.01 &mdash; Present<br>Microsoft Dynamics 365 프론트엔드 개발/커스터마이제이션"
+  summary: "<li>영진약품 CRM 모바일 거래처 지도 제작</li><ul><li>영진약품 CRM의 거래처 지도를 Google Maps API로 제작하는 업무를 수행했습니다.</li><li>Tmap API로 거래처를 방문하는 도로 경로와 유류비를 계산하는 모듈을 개발했습니다.</li><li>반응형으로 제작되지 않은 기존의 페이지를 반응형으로 변경했습니다.</li></ul><li>국도화학 CRM 커스터마이제이션</li><ul><li>국도화학 CRM을 커스터마이제이션 하는 업무를 수행했습니다.</li><li>중복 등록된 거래처를 검출하는 모듈을 작성했습니다.</li><li>사업자 번호와 등록 일자를 검증하는 모듈을 작성했습니다.</li></ul><li>기술 스택: Github, Javascript, jQuery, AngularJS, Bootstrap, RESTful API, SQL</li>"

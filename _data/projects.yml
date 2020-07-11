@@ -1,0 +1,39 @@
+
+- project: Mongo DB 텍스트 마이닝
+  role: Founder & Primary Developer
+  duration: 2019.05
+  # url: "#"
+  description: "<li><a href='https://github.com/proxent/textMining'>파이썬을 사용해 웹에서 텍스트 마이닝을 하는 프로젝트를 수행했습니다.</a></li>
+  <li>BeautifulSoup, MeCab을 이용해 웹에서 뉴스를 크롤링했습니다.</li>
+  <li>크롤링한 데이터에 Apriori 알고리즘을 적용해 단어 간 연관도를 도출했습니다.</i>
+  <li>기술 스택: Python, MongoDB</li>"
+
+- project: 파이썬 튜터
+  role: Co-Founder & Organizer
+  duration: 2019.01 &mdash; 2019.03
+  # url: "#"
+  description: "<li>부동산 스타트업 감정평가사를 대상으로 튜터링을 진행했습니다.</li>
+  <li>부동산 관련 데이터를 처리하고 csv파일로 내보내는 방법을 튜터링했습니다.</li>
+  <li> Numpy, Pandas로 데이터 처리 방법을 튜터링했습니다.</li>"
+
+- project: 하나드라이브
+  role: Co-Founder & Organizer
+  duration: 2013.06 &mdash; 2016.02
+  # url: "#"
+  description: "<li>작업 환경이 자주 바뀌어 학생들이 파일관리에 어려움을 겪는 문제가 있었습니다.</li>
+  <li>이에 착안하여 클라우드 드라이브 서비스를 제작했습니다.</li>
+  <li>Samba를 기반으로 서비스를 구축했습니다.</li>
+  <li>직접 하드웨어와 Ubuntu 12.04 LTS 서버를 빌드했습니다.</li>
+  <li>Linux 환경에 익숙하고 </li>
+  <li>기술 스택: Shell Script, Samba, Apache, PHP</li>"
+
+
+- project: 네트워크 설정 도우미
+  role: Co-Founder & Organizer
+  duration: 2013.03 &mdash; 2016.02
+  # url: "#"
+  description: "<li>교내 유/무선랜 연결 프로그램을 작성했습니다.</li>
+  <li>학생들이 무선랜 PEAP 보안 인증 설정을 어려워 하는 문제점이 있었습니다.</li>
+  <li><a href='https://github.com/proxent/wlan_wizard'>그런 문제점을 해결하기 위해 자동으로 연결을 완료하는 프로그램을 작성했습니다.</a></li>
+  <li><a href='https://github.com/proxent/lan_wizard'>더불어 유선랜에 자동으로 연결하는 프로그램을 작성했습니다.</a></li>
+  <li>기술 스택: C, Powershell</li>"
