@@ -1,27 +1,33 @@
 # Jobs
 # VP of Global Communications
-- company: "(주)퀄리소프트"
+- company: "(주)집토스 - 부동산 중개 O2O 서비스"
+  position: "Node.js 백엔드 엔지니어 "
+  duration: "2019.10 &mdash; Present"
+  summary: "
+  <li>
+    CRM 직원 솔루션 / 고객 솔루션 개발 및 개선
+  </li>
+  <li>
+    지번/도로명 주소 갱신, 건물/매물 병합 삭제 등 기술지원 사항 자동화 기능 제안 및 개발
+  </li>
+  <li>
+    매물을 LH 포털과 연계하는 LH 전월세매물포털 연계 API 개발
+  </li>
+  <li>
+    서울 전월세 실거래가 데이터를 주기적으로 크롤링하는 모듈을 개발
+  </li>
+  <li>
+    기존 솔루션의 SQL Injection / XSS 취약점을 사전에 보고하고 보안 강화 방안을 제안 및 개발함
+  </li>
+  <li>다국어 페이지 퍼블리싱 등 프론트엔드 개발에 참여함</li>
+  <li>Node, Python, Express, Sequelize, MariaDB, GraphQL 등 사용</li>
+  "
+- company: "(주)퀄리소프트 - CRM 솔루션 서비스"
   position: "프론트엔드 엔지니어"
-  duration: "2019.01 &mdash; Present<br>Microsoft Dynamics 365 개발"
+  duration: "2019.01 &mdash; 2019.10"
   summary: "
-  <li>영진약품 CRM 모바일 거래처 지도 제작</li>
-  <ul>
-  <li><a href='images/accountMap1.png'>제약사 영업사원들이 당일 방문할 거래처를 편리하게 찾게 하기 위해 CRM과 연동되는 모바일 거래처 지도 기능을 작성했습니다.</a></li>
-  <li>CRM 서버에서 데이터를 받아오고 동적으로 페이지에 반영하기 위하여 AngularJS를 사용했습니다.</li>
-  <li>Google Maps API를 이용해 지도를 그리고 거래처를 표시했습니다.</li>
-  <li>Tmap API를 이용해 유류비를 계산하는 모듈을 포함시켰습니다.</li>
-  <li>모바일 접속 환경을 고려해 Bootstrap을 사용하여 페이지를 반응형으로 제작했습니다.</li>
-  <li>API를 호출하고 CRM 서버와 통신하는 과정에서 비동기 처리를 많이 경험했고 잘 이해하고 있습니다.</li>
-  <li>Github을 사용해 버전관리를 했습니다.
-  </ul>
-  <li>국도화학 CRM 개발</li>
-  <ul>
-  <li>CRM에 중복 등록된 거래처를 검출 하는 모듈을 작성했습니다.</li>
-  <li>CRM 표준 API를 호출해 거래처 정보를 받고 사업자 번호와 등록 일자를 검증했습니다.</li>
-  </ul>
-  <li>기술 스택: AngularJS, ES6, Git</li>"
-- company: "(주)집토스"
-  position: "백엔드 엔지니어"
-  duration: "2019.10 &mdash; Present<br>Node.js"
-  summary: "
-  <li>기술 스택: AngularJS, ES6, Git</li>"
+    <li>Microsoft Dynamics 365 개발</li>
+    <li>거래처로의 경로와 유류비를 계산해주는 모바일 거래처 지도 제작</li>
+    <li>Microsoft Dynamics API를 사용해 화학, 제약 회사 비즈니스 로직을 개발</li>
+    <li>.NET, ES6, AngularJS</li>
+  "
