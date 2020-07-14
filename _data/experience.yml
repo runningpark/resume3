@@ -20,3 +20,8 @@
   <li>CRM 표준 API를 호출해 거래처 정보를 받고 사업자 번호와 등록 일자를 검증했습니다.</li>
   </ul>
   <li>기술 스택: AngularJS, ES6, Git</li>"
+- company: "(주)집토스"
+  position: "백엔드 엔지니어"
+  duration: "2019.10 &mdash; Present<br>Node.js"
+  summary: "
+  <li>기술 스택: AngularJS, ES6, Git</li>"
