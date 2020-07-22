@@ -1,12 +1,22 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+# - skill: "Javascript"
+#   description: "
+#   <li>비동기 호출에 대해 이해하고 Promise 패턴을 능숙하게 구사합니다.</li>
+#   <li>변수 스코프와 호이스팅 현상에 대해 설명할 수 있습니다.</li>
+#   <li>클로저를 디자인 패턴에 적용할 수 있습니다.</li>
+#   "
+- skill: Backend
+  description: "<li>Node, Express, Sequelize, Nginx</li>"
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Database
+  description: "<li>MariaDB, GraphQL, MongoDB</li>"
+- skill: Frontend
+  description: "
+  <li>ES6+, HTML5, CSS3</li>
+  <li>Angular.js, EJS, Handlebars</li>
+  "
+- skill: Etc.
+  description: "
+  <li>Github, Jira, Python, NumPy, Regex</li>
+  "

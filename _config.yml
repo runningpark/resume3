@@ -1,6 +1,6 @@
 # Site settings
 title: "박찬진"
-description: "A live resume"
+description: "박찬진 이력서"
 
 # Build settings
 markdown: kramdown
@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "박찬진"
-resume_title:                   "<b>산업기능요원 보충역 2019.09 - </b>"
+resume_title:                   "<b>찾아서 일하는 개발자 박찬진입니다.</b>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "alphacent@naver.com"
@@ -23,20 +23,24 @@ resume_contact_address:         "서울"
 resume_header_contact_info:     "서울 • 010-7340-1578 • alphacent@naver.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>'대충'이라는 말이 싫어 열정을 쏟을 수 있는 일을 열심히 찾고 있습니다. 끊임없이 반성하고 성장하기 위해 노력하고 있습니다. 잉걸불처럼 주변에 있으면 뭉근하게 따뜻해지는 사람이 되고 싶습니다. 읽고 대화하는 것을 좋아합니다. </p>"
+resume_header_intro: "
+  1년차 Node 백엔드 개발자로 산업기능요원 복무중입니다. 군더더기 없고 읽기 쉬운 코드를 구현하는 것을 좋아합니다.
+  주어진 과제를 해결하는 능력과 일을 찾아내는 자율성을 갖추고 있습니다.
+  공격적으로 공부하는 개발자를 지향하고 있습니다.
+"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          false
+resume_section_skills:          true
 # resume_section_recognition:     true
 # resume_section_links:           true
 # resume_section_associations:    true
