@@ -32,7 +32,6 @@
   <li>사용자 입력을 검사하는 모듈을 도입함</li>
   <li>SQL Injection 공격에 노출된 Node 코드를 코드베이스에서 제거함</li>
   <li>XSS 공격에 노출된 프론트엔드 코드를 제거함</li>
-  <li>Prototype Pollution, NoSQL Injection 등의 보안 이슈가 있는 모듈을 업데이트함</li>
   <li>공개 사이트에 노출된 해시 함수 코드를 제거함</li>
   "
 
@@ -42,15 +41,10 @@
   duration: 2019.02 &mdash; 2019.05
   description: "
   <li>영업사원들이 사용할 CRM 연동 모바일 거래처 지도 개발</li>
-  <li>
-    거래처까지의 경로와 유류비를 계산하는 기능을 탑재함
-  </li>
-  <li>
-    Google Maps API/Tmap API/가스공사 API 등 다양한 API를 활용함
-  </li>
-  <li>
-    ES6, AngularJS, Bootstrap
-  </li>
+  <li>CRM 서버에서 데이터를 받아오고 동적으로 페이지에 반영하기 위하여 AngularJS를 사용함</li>
+  <li>거래처 정보를 표시하고 마커로 나타내기 위해 Google Maps API를 활용함</li>
+  <li>경로와 유류비 계산을 위해 Tmap API를 할용함</li>
+  <li>ES6, AngularJS, Bootstrap</li>
   "
 
 - project: '개인 프로젝트: Mongo DB 텍스트 마이닝'
@@ -59,7 +53,7 @@
   # url: "#"
   description: "<li>파이썬을 사용해 웹에서 텍스트 마이닝을 하는 프로젝트를 수행함.</li>
   <li>BeautifulSoup, MeCab을 이용해 웹에서 뉴스를 크롤링함</li>
-  <li>크롤링한 데이터에 Apriori 알고리즘을 적용해 단어 간 연관도를 도출함</i>
+  <li>크롤링한 데이터에 Apriori 알고리즘을 적용해 단어 간 연관도를 도출함</li>
   <li>Python, MongoDB</li>"
 
 - project: '개인 프로젝트: 하나드라이브'
@@ -68,4 +62,6 @@
   # url: "#"
   description: "<li>교과동-기숙사-강의실을 전부 활용하는 작업 환경때문에 학생들이 파일관리에 어려움을 겪는 문제가 있음.</li>
   <li>이를 해결하기 위한 클라우드 드라이브 서비스를 제작함</li>
+  <li>제작 후 교내에서 사용자를 모집하여 서비스를 운영함</li>
+  <li>서비스 제작 과정을 '과제연구' 수업에 제출하여 우수한 성적을 거둠</li>
   <li>Shell Script, Apache, PHP</li>"
